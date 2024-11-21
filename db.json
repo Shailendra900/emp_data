@@ -1,0 +1,22 @@
+{
+    "employee": [
+    {
+        "id": "0f32",
+        "name": "Bhavesh",
+        "city": "Raipur",
+        "gender": "Male"
+    },
+    {
+        "id": "7fd3",
+        "name": "Ram Babu",
+        "city": "Bhopal",
+        "gender": "Male"
+    },
+    {
+        "id": "6c9f",
+        "name": "Shailendra Verma",
+        "city": "Bhilai",
+        "gender": "Male"
+    }
+]
+}
